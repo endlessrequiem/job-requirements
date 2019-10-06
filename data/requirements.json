@@ -19,7 +19,7 @@
       "React": "https://reactjs.org/docs/getting-started.html"
     },
     "Python": {
-
+      "django": "https://docs.djangoproject.com/en/2.2/"
     }
   },
   "project management": {
