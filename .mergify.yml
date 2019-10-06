@@ -11,8 +11,7 @@ pull_request_rules:
       - files=_data/requirements.json
     actions:
       merge:
-        method: squash
-        strict: true
+        method: merge
   - name: add label for review for more than one file change
     conditions:
       - '#files>=2'
