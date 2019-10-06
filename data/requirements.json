@@ -13,7 +13,9 @@
     },
     "degrees": [
       ""
-    ],
+    ],    
+    "Java": {
+    },
     "JavaScript": {
       "AngularJS": "https://docs.angularjs.org/guide",
       "React": "https://reactjs.org/docs/getting-started.html"
