@@ -1,6 +1,4 @@
 updateBranch: true
 deleteBranchAfterMerge: true
 reportStatus: true
-
-minApprovals:
-  COLLABORATOR: 0
+mergeMethod: merge
