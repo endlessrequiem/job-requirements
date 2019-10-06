@@ -10,7 +10,7 @@ The goal of this project is to organize requirements found in current job listin
 
 :exclamation: Structure commit messages as one of the following:
  * `Add`**`requirement`**` to `**`category`** 
- * `Add`**`framework`**` to `**`requirement`**
+ * `Add`**`framework`**` to `**`requirement`**` in `**`category`**
  * `Add new category`**`category`**`
  
 :warning: Insert in alphabetical order :cool: this will help all contributors avoid duplicates
